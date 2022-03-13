@@ -7,7 +7,7 @@
     <a href="https://github.com/IncasedDevelopment/IncasedDevelopment/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-<img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=plastic&up_color=blue&up_message=online&url=https%3A%2F%2Ffluxnetworks.xyz">
+<img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Ffluxnetworks.xyz">
     <a href="https://github.com/IncasedDevelopment/IncasedDevelopment/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/IncasedDevelopment/github-readme-stats?color=0088ff" />
     </a>

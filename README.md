@@ -21,5 +21,6 @@
     <a href="https://billing.pebblehost.com/aff.php?aff=2068">
       <img src="https://img.shields.io/badge/Supported%20by-Pebble%20Host%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IncasedDevelopment&show_icons=true&theme=radical)

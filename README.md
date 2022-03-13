@@ -22,6 +22,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-Pebble%20Host%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
-  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IncasedDevelopment&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IncasedDevelopment&langs_count=8)](https://github.com/IncasedDevelopment/IncasedDevelopment)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IncasedDevelopment&show_icons=true&theme=radical)

@@ -31,7 +31,7 @@
 
   
 
-<p align=center>👨‍💻 All of my projects are available at <a href="https://github.com/IncasedDevelopment?tab=repositories">My Rrepositories</a></p>
+<p align=center>👨‍💻 All of my projects are available at <a href="https://github.com/IncasedDevelopment?tab=repositories">My Repositories</a></p>
 
   
 

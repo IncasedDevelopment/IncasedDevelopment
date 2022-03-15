@@ -15,43 +15,43 @@
 
   
 
-<p align=center>🔭 I’m currently working on Click following link <a href="https://github.com/IncasedDevelopment/Flux-Java-API">Flux API</a></p>
+<p align=center>🔭 I’m currently working on <a href="https://github.com/IncasedDevelopment/Flux-Java-API">Flux API</a></p>
 
   
 
-<p align=center>- 🌱 I’m currently learning **Frameworks, React and Advanced PHP**</p>
+<p align=center>🌱 I’m currently learning <b>Frameworks, React and Advanced PHP</b></p>
 
   
 
-<p align=center>- 👯 I’m looking to collaborate on [Flux Networks](https://www.fluxnetworks/)</p>
+<p align=center>👯 I’m looking to collaborate on <a href="https://www.fluxnetworks/">Flux Networks</a></p>
 
   
 
-<p align=center>- 🤝 I’m looking for staff [Apply Here](https://fluxnetworks.xyz/contact)</p>
+<p align=center>🤝 I’m looking for staff <a href="https://fluxnetworks.xyz/contact">Apply Here</a></p>
 
   
 
-<p align=center>- 👨‍💻 All of my projects are available at [https://github.com/IncasedDevelopment?tab=repositories](https://github.com/IncasedDevelopment?tab=repositories)</p>
+<p align=center>👨‍💻 All of my projects are available at <a href="https://github.com/IncasedDevelopment?tab=repositories">My Rrepositories</a></p>
 
   
 
-<p align=center>- 📝 I regularly talk here [https://fluxnetworks.xyz/discord](https://fluxnetworks.xyz/discord)</p>
+<p align=center>📝 I regularly talk here [https://fluxnetworks.xyz/discord](https://fluxnetworks.xyz/discord)</p>
 
   
 
-<p align=center>- 💬 Ask me about <b>Java Programming, DiscordJS, ETC</b></p>
+<p align=center>💬 Ask me about <b>Java Programming, DiscordJS, ETC</b></p>
 
   
 
-<p align=center>- 📫 How to reach me <b>admin@fluxnetworks.xyz</b></p>
+<p align=center>📫 How to reach me <b>admin@fluxnetworks.xyz</b></p>
 
   
 
-<p align=center>- 📄 Know about my company [https://fluxnetworks.xyz/](https://fluxnetworks.xyz/)</p>
+<p align=center>📄 Know about my company [https://fluxnetworks.xyz/](https://fluxnetworks.xyz/)</p>
 
   
 
-<p align=center>- ⚡ Fun fact **I love coffee**
+<p align=center>⚡ Fun fact <b>I love coffee</b>
 
   
 

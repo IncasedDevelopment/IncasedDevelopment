@@ -39,11 +39,11 @@
 
   
 
-<p align=center>- 💬 Ask me about **Java Programming, DiscordJS, ETC**</p>
+<p align=center>- 💬 Ask me about <b>Java Programming, DiscordJS, ETC</b></p>
 
   
 
-<p align=center>- 📫 How to reach me **admin@fluxnetworks.xyz**</p>
+<p align=center>- 📫 How to reach me <b>admin@fluxnetworks.xyz</b></p>
 
   
 

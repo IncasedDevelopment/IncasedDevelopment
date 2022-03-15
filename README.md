@@ -76,8 +76,8 @@
 <h3  align="left">Support:</h3>
 
 
-<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=incaseddevelopment&show_icons=true&locale=en&layout=compact"  alt="incaseddevelopment"  /></p></p></p><br><br>
+<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=incaseddevelopment&show_icons=true&locale=en&layout=compact"  alt="incaseddevelopment"  /></p></p> \
 
-<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=incaseddevelopment&show_icons=true&locale=en"  alt="incaseddevelopment"  /></p></p><br><br>
+<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=incaseddevelopment&show_icons=true&locale=en"  alt="incaseddevelopment"  /></p> \
 
-<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=incaseddevelopment&"  alt="incaseddevelopment"  /></p></p>
+<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=incaseddevelopment&"  alt="incaseddevelopment"  /></p></p> \

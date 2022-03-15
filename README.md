@@ -35,7 +35,7 @@
 
   
 
-<p align=center>📝 I regularly talk here [https://fluxnetworks.xyz/discord](https://fluxnetworks.xyz/discord)</p>
+<p align=center>📝 I regularly talk here <a href="https://fluxnetworks.xyz/discord">Discord</a></p>
 
   
 
@@ -47,7 +47,7 @@
 
   
 
-<p align=center>📄 Know about my company [https://fluxnetworks.xyz/](https://fluxnetworks.xyz/)</p>
+<p align=center>📄 Know about my <a href="https://fluxnetworks.xyz/">company</a></p>
 
   
 

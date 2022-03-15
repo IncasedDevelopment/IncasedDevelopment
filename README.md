@@ -75,8 +75,6 @@
 
 <h3  align="left">Support:</h3>
 
-<p><a  href="https://ko-fi.com/incasedname">  <img  align="left"  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  height="50"  width="210"  alt="incasedname"  /></a></p><br><br>
-
 
 <p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=incaseddevelopment&show_icons=true&locale=en&layout=compact"  alt="incaseddevelopment"  /></p></p>
 

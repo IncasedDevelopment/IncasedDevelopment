@@ -27,7 +27,7 @@
 
   
 
-- 🤝 I’m looking for staff [Apply Here](https://fluxnetworks.xyz/contact)</p>
+<p align=center>- 🤝 I’m looking for staff [Apply Here](https://fluxnetworks.xyz/contact)</p>
 
   
 

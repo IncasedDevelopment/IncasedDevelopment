@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-Flux%20Networks%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://billing.pebblehost.com/aff.php?aff=2068">
-      <img src="https://img.shields.io/badge/Supported%20by-Pebble%20Host%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Supported%20by-PebbleHost%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
 </p>
 

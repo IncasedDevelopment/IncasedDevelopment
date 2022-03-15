@@ -81,11 +81,11 @@
 
 <h3  align="center">Support:</h3>
 
-<p  align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=incaseddevelopment&show_icons=true&locale=en&layout=compact"  alt="incaseddevelopment"  /></p></p>
+<p  align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=incaseddevelopment&show_icons=true&theme=radical&locale=en&layout=compact"  alt="incaseddevelopment"  /></p></p>
 
   
 
-<p  align="center">&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=incaseddevelopment&show_icons=true&locale=en"  alt="incaseddevelopment"  /></p>
+<p  align="center">&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=incaseddevelopment&show_icons=true&theme=radical&locale=en"  alt="incaseddevelopment"  /></p>
 
   
 

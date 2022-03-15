@@ -15,43 +15,43 @@
 
   
 
-- 🔭 I’m currently working on [Flux API](https://github.com/IncasedDevelopment/Flux-Java-API)
+<p align=center>- 🔭 I’m currently working on [Flux API](https://github.com/IncasedDevelopment/Flux-Java-API)</p>
 
   
 
-- 🌱 I’m currently learning **Frameworks, React and Advanced PHP**
+<p align=center>- 🌱 I’m currently learning **Frameworks, React and Advanced PHP**</p>
 
   
 
-- 👯 I’m looking to collaborate on [Flux Networks](https://www.fluxnetworks/)
+<p align=center>- 👯 I’m looking to collaborate on [Flux Networks](https://www.fluxnetworks/)</p>
 
   
 
-- 🤝 I’m looking for staff [Apply Here](https://fluxnetworks.xyz/contact)
+- 🤝 I’m looking for staff [Apply Here](https://fluxnetworks.xyz/contact)</p>
 
   
 
-- 👨‍💻 All of my projects are available at [https://github.com/IncasedDevelopment?tab=repositories](https://github.com/IncasedDevelopment?tab=repositories)
+<p align=center>- 👨‍💻 All of my projects are available at [https://github.com/IncasedDevelopment?tab=repositories](https://github.com/IncasedDevelopment?tab=repositories)</p>
 
   
 
-- 📝 I regularly talk here [https://fluxnetworks.xyz/discord](https://fluxnetworks.xyz/discord)
+<p align=center>- 📝 I regularly talk here [https://fluxnetworks.xyz/discord](https://fluxnetworks.xyz/discord)</p>
 
   
 
-- 💬 Ask me about **Java Programming, DiscordJS, ETC**
+<p align=center>- 💬 Ask me about **Java Programming, DiscordJS, ETC**</p>
 
   
 
-- 📫 How to reach me **admin@fluxnetworks.xyz**
+<p align=center>- 📫 How to reach me **admin@fluxnetworks.xyz**</p>
 
   
 
-- 📄 Know about my company [https://fluxnetworks.xyz/](https://fluxnetworks.xyz/)
+<p align=center>- 📄 Know about my company [https://fluxnetworks.xyz/](https://fluxnetworks.xyz/)</p>
 
   
 
-- ⚡ Fun fact **I love coffee**
+<p align=center>- ⚡ Fun fact **I love coffee**
 
   
 

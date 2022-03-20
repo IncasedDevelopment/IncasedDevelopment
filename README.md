@@ -32,7 +32,7 @@
 
   
 
-<p align=center>👯 I’m looking to collaborate on <a href="https://www.fluxnetworks/">Flux Networks</a></p>
+<p align=center>👯 I’m looking to collaborate on <a href="https://www.fluxnetworks.xyz/">Flux Networks</a></p>
 
   
 

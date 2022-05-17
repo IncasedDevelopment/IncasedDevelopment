@@ -1,90 +1,90 @@
+# Hi there 👋
 
-<h1  align="center">Hi 👋, I'm IncasedDevelopment</h1> <a href="https://app.daily.dev/IncasedName"><img src="https://api.daily.dev/devcards/4cbdd45a526142529192799215b2988c.png?r=606" width="400" alt="IncasedDevelopment's Dev Card"/></a>
+<div align="left">
+  <a href="https://twitter.com/IncasedName">
+    <img
+      src="https://img.shields.io/twitter/follow/IncasedName?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/IncasedName/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-<p align="center"><a  href="https://ko-fi.com/incasedname">  <img  align="center"  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  height="50"  width="210"  alt="incasedname"  /></a></p>
+  <a href="https://api.daily.dev/get?r=IncasedName" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/IncasedName/IncasedName/devcard/devcard.svg"
+    />
+  </a>
+</div>
 
-<h3  align="center">A passionate frontend developer from Oceania.</h3>
+## I am IncasedDevelopment
 
-<p align="center">
-    <a href="https://www.fluxnetworks.xyz/">
-      <img src="https://img.shields.io/badge/Supported%20by-Flux%20Networks%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://billing.pebblehost.com/aff.php?aff=2068">
-      <img src="https://img.shields.io/badge/Supported%20by-PebbleHost%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-</p>
+- Developer at [Flux Networks](https://www.fluxnetworks.xyz/)
+- Loves a freshly brewed cup of Javascript and Coffee
 
-  
+![Metrics](https://raw.githubusercontent.com/IncasedDevelopment/IncasedDevelopment/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/IncasedDevelopment/IncasedDevelopment/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/IncasedDevelopment/IncasedDevelopment/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/IncasedDevelopment/IncasedDevelopment/github-metrics/achievements.svg)
+pip-logo
+Getting Started,
+Connect your Phantom
+wallet to continue!
 
-<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=incaseddevelopment&label=Profile%20views&color=0e75b6&style=flat"  alt="incaseddevelopment"  />  </p>
 
-  
+Sign in with Phantom Wallet
+Don’t you have Phantom wallet?
 
-<p  align="center">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=incaseddevelopment"  alt="incaseddevelopment"  /></a>  </p>
+Create a free wallet!
+SOL
+SOL
 
-  
+$0.1
 
-<p align=center>🔭 I’m currently working on <a href="https://github.com/IncasedDevelopment/Flux-Java-API">Flux API</a></p>
+NaN
 
-  
 
-<p align=center>🌱 I’m currently learning <b>Frameworks, React and Advanced PHP</b></p>
+$0.5
 
-  
+NaN
 
-<p align=center>👯 I’m looking to collaborate on <a href="https://www.fluxnetworks.xyz/">Flux Networks</a></p>
 
-  
+$1
 
-<p align=center>🤝 I’m looking for staff <a href="https://fluxnetworks.xyz/contact">Apply Here</a></p>
+NaN
 
-  
 
-<p align=center>👨‍💻 All of my projects are available at <a href="https://github.com/IncasedDevelopment?tab=repositories">My Repositories</a></p>
+$3
 
-  
+NaN
 
-<p align=center>📝 I regularly talk here <a href="https://fluxnetworks.xyz/discord">Discord</a></p>
 
-  
+$5
 
-<p align=center>💬 Ask me about <b>Java Programming, DiscordJS, ETC</b></p>
+NaN
 
-  
 
-<p align=center>📫 How to reach me <b>admin@fluxnetworks.xyz</b></p>
+$10
 
-  
+NaN
 
-<p align=center>📄 Know about my <a href="https://fluxnetworks.xyz/">company</a></p>
 
-  
+$50
 
-<p align=center>⚡ Fun fact <b>I love coffee</b>
+NaN
 
-  
+...
+Processing fee: NaN%
 
-<h3  align="center">Connect with me:</h3>
-
-<p  align="center">
-<a  href="https://twitter.com/incasedname"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="incasedname"  height="30"  width="40"  /></a>
-<a  href="https://instagram.com/incaseddevelopment"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="incaseddevelopment"  height="30"  width="40"  /></a>
-<a  href="https://www.youtube.com/c/incasedname"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  alt="incasedname"  height="30"  width="40"  /></a>
-<a  href="https://discord.gg/NpRHJXZmcY"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  alt="NpRHJXZmcY"  height="30"  width="40"  /></a>
-</p>
-
-  
-
-<h3  align="center">Languages and Tools:</h3>
-
-<p  align="center">  <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a>  <a  href="https://www.docker.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  alt="docker"  width="40"  height="40"/>  </a>  <a  href="https://dotnet.microsoft.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  alt="dotnet"  width="40"  height="40"/>  </a>  <a  href="https://cloud.google.com"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="gcp"  width="40"  height="40"/>  </a>  <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"/>  </a>  <a  href="https://www.adobe.com/in/products/illustrator.html"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  alt="illustrator"  width="40"  height="40"/>  </a>  <a  href="https://www.java.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/>  </a>  <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a>  <a  href="https://www.linux.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux"  width="40"  height="40"/>  </a>  <a  href="https://www.mongodb.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="mongodb"  width="40"  height="40"/>  </a>  <a  href="https://www.microsoft.com/en-us/sql-server"  target="_blank"  rel="noreferrer">  <img  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"  alt="mssql"  width="40"  height="40"/>  </a>  <a  href="https://www.mysql.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40"  height="40"/>  </a>  <a  href="https://nodejs.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs"  width="40"  height="40"/>  </a>  <a  href="https://www.photoshop.com/en"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"  alt="photoshop"  width="40"  height="40"/>  </a>  <a  href="https://www.php.net"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  alt="php"  width="40"  height="40"/>  </a>  <a  href="https://www.postgresql.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  alt="postgresql"  width="40"  height="40"/>  </a>  <a  href="https://www.python.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>  <a  href="https://unrealengine.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"  alt="unreal"  width="40"  height="40"/>  </a>  <a  href="https://www.adobe.com/products/xd.html"  target="_blank"  rel="noreferrer">  <img  src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  alt="xd"  width="40"  height="40"/>  </a>  </p>
-
-<p  align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=incaseddevelopment&show_icons=true&theme=radical&locale=en&layout=compact"  alt="incaseddevelopment"  /></p></p>
-
-  
-
-<p  align="center">&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=incaseddevelopment&show_icons=true&theme=radical&locale=en"  alt="incaseddevelopment"  /></p>
-
-  
-
-<p  align="center"><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=incaseddevelopment&theme=radical"  alt="incaseddevelopment"  /></p></p>
+Continue
+Pipped by
+Total Received
+$0
+empty
+Be the first to PIP

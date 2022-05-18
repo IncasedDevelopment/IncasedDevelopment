@@ -24,7 +24,7 @@
 
   
 
-<p align=center>🔭 I’m currently working on <a href="https://github.com/IncasedDevelopment/Flux-Java-API">Flux API</a></p>
+<p align=center>🔭 I’m currently working on <a href="https://github.com/IncasedDevelopment/FluxAI-Wombo">FluxAI-Wombo</a></p>
 
   
 

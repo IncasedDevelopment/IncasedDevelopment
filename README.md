@@ -3,7 +3,7 @@
 
 <p align="center"><a  href="https://ko-fi.com/incasedname">  <img  align="center"  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  height="50"  width="210"  alt="incasedname"  /></a></p>
 
-<h3  align="center">A passionate Full-stack and High-Level Developer from New Zealand.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=A+passionate+Full-stack+Developer;High-Level+Developer;From+New+Zealand)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://www.fluxnetworks.xyz/">

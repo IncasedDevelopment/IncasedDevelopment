@@ -1,7 +1,7 @@
 
 <h1  align="center">Hi 👋, I'm IncasedDevelopment</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&lines=A+passionate+Full-stack+Developer;High-Level+Developer;From+New+Zealand)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&width=500&height=100&lines=Passionate+Full-stack+Developer;High-Level+Developer;From+New+Zealand)](https://git.io/typing-svg)
 
 <p align="center"><a  href="https://ko-fi.com/incasedname">  <img  align="center"  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  height="50"  width="210"  alt="incasedname"  /></a></p>
 

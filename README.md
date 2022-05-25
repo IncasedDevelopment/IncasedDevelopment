@@ -187,12 +187,5 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<p  align="center"><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=incaseddevelopment&show_icons=true&theme=radical&locale=en&layout=compact"  alt="incaseddevelopment"  /></p></p>
-
-  
-
-<p  align="center">&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=incaseddevelopment&show_icons=true&theme=radical&locale=en"  alt="incaseddevelopment"  /></p>
-
-  
-
-<p  align="center"><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=incaseddevelopment&theme=radical"  alt="incaseddevelopment"  /></p></p>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>

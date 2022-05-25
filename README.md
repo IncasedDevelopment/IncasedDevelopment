@@ -6,63 +6,18 @@
 <p align="center"><a  href="https://ko-fi.com/incasedname">  <img  align="center"  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  height="50"  width="210"  alt="incasedname"  /></a></p>
 
 <p align="center">
-    <a href="https://www.fluxnetworks.xyz/">
-      <img src="https://img.shields.io/badge/Supported%20by-Flux%20Networks%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://billing.pebblehost.com/aff.php?aff=2068">
-      <img src="https://img.shields.io/badge/Supported%20by-PebbleHost%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-
-  
-
-<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=incaseddevelopment&label=Profile%20views&color=0e75b6&style=flat"  alt="incaseddevelopment"  />  </p>
-
-  
-
-<p  align="center">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=incaseddevelopment"  alt="incaseddevelopment"  /></a>  </p>
-
-  
-
-<p align=center>🔭 I’m currently working on <a href="https://github.com/IncasedDevelopment/FluxAI-Wombo">FluxAI-Wombo</a></p>
-
-  
-
-<p align=center>🌱 I’m currently learning <b>Frameworks, React and Advanced PHP</b></p>
-
-  
-
-<p align=center>👯 I’m looking to collaborate on <a href="https://www.fluxnetworks.xyz/">Flux Networks</a></p>
-
-  
-
-<p align=center>🤝 I’m looking for staff <a href="https://fluxnetworks.xyz/contact">Apply Here</a></p>
-
-  
-
-<p align=center>👨‍💻 All of my projects are available at <a href="https://github.com/IncasedDevelopment?tab=repositories">My Repositories</a></p>
-
-  
-
-<p align=center>📝 I regularly talk here <a href="https://fluxnetworks.xyz/discord">Discord</a></p>
-
-  
-
-<p align=center>💬 Ask me about <b>Java Programming, DiscordJS, ETC</b></p>
-
-  
-
-<p align=center>📫 How to reach me <b>admin@fluxnetworks.xyz</b></p>
-
-  
-
-<p align=center>📄 Know about my <a href="https://fluxnetworks.xyz/">company</a></p>
-
-  
-
-<p align=center>⚡ Fun fact <b>I love coffee</b>
-
-  
 
 <h3  align="center">Connect with me:</h3>
 

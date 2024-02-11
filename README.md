@@ -16,8 +16,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<p align="center">
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=1045120903148748800)
-
+</p>
 ### 👨‍💻 Programming and markup languages
 
 <p>

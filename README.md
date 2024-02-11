@@ -1,6 +1,3 @@
-
-<h1  align="center">Hi 👋, I'm IncasedDevelopment</h1>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&pause=1000&color=BD50BD&center=true&vCenter=true&multiline=true&random=false&width=900&height=180&lines=IncasedDevelopment;Full-Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">

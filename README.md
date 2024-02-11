@@ -1,7 +1,7 @@
 
 <h1  align="center">Hi 👋, I'm IncasedDevelopment</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&pause=1000&color=BD50BD&center=true&vCenter=true&multiline=true&random=false&width=900&height=300&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBFull-Stack+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Located+in;%F0%9F%93%8DNew+Zealand%F0%9F%93%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=3000&pause=1000&color=BD50BD&center=true&vCenter=true&multiline=true&random=false&width=900&height=300&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBFull-Stack+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Located+in;%F0%9F%93%8DNew+Zealand%F0%9F%93%8D)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCzpHNOX7wl8BTRvZBB_ZIhA/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>

@@ -122,12 +122,5 @@
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IncasedDevelopment)](https://github.com/IncasedDevelopment/)
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="IncasedDevelopment's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IncasedDevelopment&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
